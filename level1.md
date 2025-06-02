@@ -1,6 +1,5 @@
 # Task1: HelloWorld for AIML
 
-
 This marked the beginning of my journey into AI and machine learning. Being new to the domain, this task gave me a hands-on introduction to how regression models operate. I implemented a Linear Regression model using the California Housing dataset to predict house prices based on various features. I also worked on a Logistic Regression model using the Iris dataset to classify different flower species. Through these exercises, I gained a clearer understanding of concepts like data preprocessing, model training, prediction, and performance evaluation.
 
 githublink
@@ -71,6 +70,14 @@ In this task, I explored Plotly, a powerful and interactive data visualization l
 
 
 A Decision Tree is a supervised learning algorithm used for classification and regression. It splits data into branches based on feature conditions, making decisions in a tree-like structure. In this task, I created a synthetic dataset with features like Company, Job Type, Degree, and Salary. I converted categorical data using label encoding and defined the target as whether Salary > 10K. Using scikit-learn, I trained a Decision Tree Classifier, evaluated its accuracy, and visualized the model to understand how different features influenced the outcome.
+
+
+
+
+
+
+
+
 
 
 
