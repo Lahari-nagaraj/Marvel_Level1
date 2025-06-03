@@ -1,5 +1,4 @@
-# K-Nearest Neighbors on Iris Dataset (Human-style Version)
-# Includes: From-scratch KNN, sklearn KNN, and 2D plot using PCA
+
 
 import numpy as np
 import matplotlib.pyplot as plt
