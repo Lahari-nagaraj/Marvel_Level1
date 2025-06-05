@@ -72,7 +72,32 @@ In this task, I explored Plotly, a powerful and interactive data visualization l
 A Decision Tree is a supervised learning algorithm used for classification and regression. It splits data into branches based on feature conditions, making decisions in a tree-like structure. In this task, I created a synthetic dataset with features like Company, Job Type, Degree, and Salary. I converted categorical data using label encoding and defined the target as whether Salary > 10K. Using scikit-learn, I trained a Decision Tree Classifier, evaluated its accuracy, and visualized the model to understand how different features influenced the outcome.
 
 
+# Task 7:  K- Nearest Neighbor Algorithm
 
+ I explored the K-Nearest Neighbors (KNN) algorithm, a simple yet powerful supervised learning technique. KNN works by identifying the ‘k’ nearest data points to a new input and classifying it based on majority voting. It’s a lazy learning algorithm, meaning it doesn’t require model training and makes predictions directly using the training data.
+
+I implemented KNN using scikit-learn’s KNeighborsClassifier on datasets like Iris, Wine, and Breast Cancer. I experimented with different k values and distance metrics to observe their effect on performance. I also learned the importance of feature scaling since KNN is distance-based.
+
+To understand the algorithm better, I implemented KNN from scratch in Python. This helped me clearly see how distances are calculated, neighbors selected, and predictions made. I compared the results of my custom implementation with scikit-learn’s and found them closely matching, though the library version was faster.
+
+Overall, this task helped me understand the working, strengths, and limitations of KNN.
+
+
+gthub
+inage
+
+# Task 8: An elementary step towards understanding Neural Networks
+
+While working on the neural networks task, I explored different types like ANN and CNN through hands-on coding. I understood how layers, weights, and activation functions contribute to the model’s predictions, and how backpropagation helps in adjusting the weights using gradients. Implementing small models helped me grasp the role of each layer clearly. Later, when learning about Large Language Models like GPT-4, I explored how transformers, self-attention, and token embeddings power language understanding. Though complex, breaking it down step by step helped me connect neural networks to how large models like GPT actually work.
+
+blog
+blog
+image
+image
+
+# Task 9: Mathematics behind machine learning
+
+I explored the mathematical foundations behind machine learning by working on curve fitting and Fourier transforms. For curve fitting, I used Desmos to visualize and model a function of my choice. I experimented with polynomial functions and learned how changing the degree of the polynomial affected the fit of the curve to the data points. This hands-on exercise helped me understand how curve fitting plays a crucial role in regression problems, where the goal is to find a function that best approximates the relationship between variables. I also learned how overfitting can occur with higher-degree polynomials and the importance of balancing complexity and generalization.
 
 
 
