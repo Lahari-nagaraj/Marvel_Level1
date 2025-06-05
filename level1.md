@@ -99,7 +99,18 @@ image
 
 I explored the mathematical foundations behind machine learning by working on curve fitting and Fourier transforms. For curve fitting, I used Desmos to visualize and model a function of my choice. I experimented with polynomial functions and learned how changing the degree of the polynomial affected the fit of the curve to the data points. This hands-on exercise helped me understand how curve fitting plays a crucial role in regression problems, where the goal is to find a function that best approximates the relationship between variables. I also learned how overfitting can occur with higher-degree polynomials and the importance of balancing complexity and generalization.
 
+ I learned how Fourier Transforms break down signals into sine and cosine waves, allowing complex functions to be represented as sums of simpler waves. Visualizing these transformations improved my understanding of how Fourier analysis underpins many data processing, such as signal processing and feature extraction. Overall, this task deepened my appreciation for the math that powers machine learning models.
 
+
+image
+image
+github
+
+# Task 10: Support vector machines
+
+ I explored Support Vector Machines (SVM), a powerful supervised learning algorithm used mainly for binary classification. I learned how SVM finds the optimal hyperplane that maximizes the margin between two classes, helping to separate data points as clearly as possible. By applying SVM to the Breast Cancer dataset, I gained practical experience in building models that aid in medical diagnosis. This task helped me understand key concepts such as margin maximization, kernel tricks for non-linear data, and the importance of regularization in controlling model complexity.
+
+blog
 
 
 
