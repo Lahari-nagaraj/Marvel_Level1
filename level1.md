@@ -111,8 +111,15 @@ github
  I explored Support Vector Machines (SVM), a powerful supervised learning algorithm used mainly for binary classification. I learned how SVM finds the optimal hyperplane that maximizes the margin between two classes, helping to separate data points as clearly as possible. By applying SVM to the Breast Cancer dataset, I gained practical experience in building models that aid in medical diagnosis. This task helped me understand key concepts such as margin maximization, kernel tricks for non-linear data, and the importance of regularization in controlling model complexity.
 
 blog
+img
+img
 
+# Task 11 - Linear and Logistic Regression - Coding the model from SCRATCH
 
+I have gained a complete understanding of both Linear and Logistic Regression by implementing them from scratch using Python. I began by loading and preprocessing the datasets, followed by initializing parameters like weights and bias. I defined the respective hypothesis functions, used appropriate loss functions (MSE for Linear and Cross-Entropy for Logistic), and applied gradient descent to minimize error. Through this, I understood how the models learn and update parameters during training. After building the models, I used them to make predictions and then evaluated their performance using metrics such as RMSE, accuracy, and precision. Finally, I compared the results of my custom implementations with scikit-learn’s built-in algorithms, which helped me appreciate the efficiency and optimization of library functions while reinforcing the core mathematical concepts behind them. This process gave me both practical coding skills and a strong conceptual foundation in regression techniques.
+
+img
+img
 
 
 
